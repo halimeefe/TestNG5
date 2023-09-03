@@ -1,0 +1,26 @@
+
+
+    İSMET HOCA GİT HESABI :   https://github.com/ismettechno/SDET5.git
+    SELENİUM : https://www.selenium.dev/
+    FONKSİYONLARI ÖĞRENECEĞİMİZ SİTE :   https://www.w3schools.com/jsref/event_onclick.asp
+    https://www.browserstack.com/guide/selenium-scroll-tutorial
+
+     TESTNG YE FROM MAVENDAN YÜKLENECEK :  ÖNCE --> org.seleniumhq.selenium:selenium-java:4.8.1  SONRA--> //org.testng:testng:6.14.3
+
+     https://github.com/ismettechno/TestNG5.git
+
+     TESTNG PROJE KURULUMU  :
+
+     *FİLE DAN YENİ BİR PROJE AÇTIK
+     *BİR KLASÖR ,CLASS VE FİLE AÇTIK
+     *PROJENİN ÜZERİNDE OPEN MODÜLE SETTİNGSDEN LİBRARİE GİTİİK
+     *ARTIDAN FROM MAVEN TIKLADIK
+     *YUKARIDAKİ KÜTÜPHANE LİNKLERİNİ SIRASIYLA YÜKLERİZ SELENİUM VE TESTNG
+     *OK LERİZ.
+     *SONRASINDA BASEDRİVER VE TOOLS CLASIMIZI DÜZENLERİZ
+     *PROJE CLASIMIZIN ÜZERİNDE SAĞ TIKLAYIP CREATE TESTNG XML TIKLARIZ
+     * BİR TANEDE XML FİLE OLUŞTURURUZ
+     *XML FİLE IN GÖRÜNÜR OLMASI İÇİN PROJEYE SAĞ TIKLAYIP
+     * RELOAD FROM DİSK E TIKLARIZ
+
+

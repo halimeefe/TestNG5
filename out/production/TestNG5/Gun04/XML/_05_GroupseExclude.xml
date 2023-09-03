@@ -1,0 +1,27 @@
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+ <suite name="Suit">
+
+    <test name="test1">
+
+        <groups>
+            <run>
+                <exclude name="SmokeTest"> //SMOKE TEST DIŞINDAKİLER ÇALIŞSIN
+
+                </exclude>
+
+            </run>
+        </groups>
+
+        <classes>
+
+            <class name="Gun04.XML._03_Groups"></class>
+
+
+        </classes>
+
+        </test>
+
+        </suite>

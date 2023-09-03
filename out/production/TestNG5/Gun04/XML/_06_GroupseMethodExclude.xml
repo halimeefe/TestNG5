@@ -1,0 +1,31 @@
+
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+ <suite name="Suit">
+
+    <test name="test1">
+
+        <groups>
+            <run>
+                <exclude name="SmokeTest">//  methods exclude -> methodlardan test 4 hariç olanı çalıştır
+
+                </exclude>
+
+            </run>
+        </groups>
+
+        <classes>
+
+            <class name="Gun04.XML._03_Groups">
+                <methods><exclude name="test5"></exclude>
+                </methods>
+
+            </class>
+
+
+        </classes>
+
+        </test>
+
+        </suite>
